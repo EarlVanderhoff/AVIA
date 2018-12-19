@@ -16,3 +16,5 @@ PSNR, AVIA MSE, Fuzziness, freezing, tiling, hue, saturation, brightness, audio 
 HDMI, Composite, Component, SDI, most file types, streaming, SPTS/MPTS, adaptive bitrate.The application precedes .dash and H.265
 
 The full application engendered patents for low-motion precise synchronization, and color match weighting for moving video sources.
+
+Functional, though often lacking needed descriptors and elegance. I have much to learn. 
