@@ -1,7 +1,7 @@
 # AVIA
-Anamorphic Video Information Analysis Controller
+Anamorphic Video Information Analysis - Controller
 
-Two classes excerpted from greater AVIA project Controller application...
+Two classes from AVIA Controller application...
 
 SorbelEdgeDetection: Primarily Histogram Equalization, Median Filtering, and Sorbel Edge Detection - all performed discretely (no Integrated Performance Primatives), to render the vector map values accessible for custom analysis
 
