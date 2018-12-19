@@ -2,7 +2,9 @@
 Anamorphic Video Information Analysis Controller
 
 Two classes excerpted from greater AVIA project Controller application...
+
 SorbelEdgeDetection: Primarily Histogram Equalization, Median Filtering, and Sorbel Edge Detection - all performed discretely (no Integrated Performance Primatives), to render the vector map values accessible for custom analysis
+
 Edgedetect: Primarily a set of threadpooled subs and functions to enable multi-threaded, real time, intense number crunching
 
 This project was rather massive, consisting of 3 distinct applications, running on independent, geographically remote PCs (compare video from New Jersey with video from Rhode Island - operate from Florida), enabling automated, long duration (4+ hour), real-time, HD, multi-input (line, stream, file), video quality analysis with operational fidelity.
